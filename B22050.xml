@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order of Parliament for the putting in due execution through out the whole Kingdome the statutes made for the observation of the Sabath day as also an order of the Lord Major to the aldermen of the severall wards in the city of London, to see the sayd statutes put in execution in their sayd wards.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22050</idno><idno type="EEBO-CITATION">12174517</idno>
+  <idno type="VID">197127</idno>
+  <idno type="EEBO-PROQUEST">2240932949</idno>
+  
+            <idno type="STC">Wing E1692</idno>
+            <idno type="OCLC">12174517</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197127)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E94, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order of Parliament for the putting in due execution through out the whole Kingdome the statutes made for the observation of the Sabath day as also an order of the Lord Major to the aldermen of the severall wards in the city of London, to see the sayd statutes put in execution in their sayd wards.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4], 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sunday legislation --  England.</term>
+               <term type="topical_term">Sunday legislation --  Wales.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197127:1"/>
+            <p>AN ORDER OF PARLIAMENT For the putting in due execution through out the whole Kingdome the Statutes made for the observation of the Sabath day. As also an Order of the Lord Major to the Al<g ref="char:EOLhyphen"/>dermen of the severall Wards in the City of <hi>London,</hi> to see the sayd Statutes put in execution in their sayd Wards.</p>
+            <figure>
+               <figDesc>blazon or coat of arms of the City of London</figDesc>
+            </figure>
+            <p>Printed by <hi>Richard Cotes,</hi> Printer to the Honora<g ref="char:EOLhyphen"/>ble City of <hi>London.</hi> 1643.</p>
+            <pb facs="tcp:197127:2"/>
+         </div>
+         <div type="order_to_print">
+            <pb facs="tcp:197127:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabath.</hi> 22. <hi>March.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered, that the Aldermen and Citizens that serve for the City of London, in<g ref="char:EOLhyphen"/>timate unto the Lord Major of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> from this House, that the Statutes for the due observing of the Sabath be put in execution; and that the like intimation bee made to the Iustices of the Peace in all Counties of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales.</hi>
+            </p>
+            <closer>
+               <signed>Hen. Elsynge Cler. Dom. Com.</signed>
+            </closer>
+            <pb facs="tcp:197127:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:197127:3"/>
+            <head>By the Major. <hi>To the Aldermen of the severall wards in London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Or asmuch as the Lords day commonly called Sunday, is of late much broken and prophaned by a disorderly sort of people, in frequenting Ta<g ref="char:EOLhyphen"/>vernes, Alehouses, and the like, and in carrying and putting to sale Victuall, and other things, and exercising unlawfull Games and Pastimes to the great dishonor of God, and reproach of Religion, where<g ref="char:EOLhyphen"/>of the House of Commons now assembled hath beene pleased to take notice, and by their Order, intimation hath beene by me
+<pb n="2" facs="tcp:197127:4"/> given, that the Statutes for the due obser<g ref="char:EOLhyphen"/>vance of that day should be put in executi<g ref="char:EOLhyphen"/>on.</p>
+            <p>These are therefore to will and require you forthwith upon sight hereof to give strict charge and command unto all and every the Churchwardens and Constables within your Ward, that from henceforth they doe not permit or suffer any person, or persons in the time of Divine Service, or at any time upon the Lords day, to be tip<g ref="char:EOLhyphen"/>ling in any Taverne Inne, Tobacco shop, Alehouse, or other Victualling house whatsoever, nor suffer any Fruiterers or Herbe<g ref="char:EOLhyphen"/>women to stand with Fruite, Herbes, or other Victuall, or Wares, in any Streetes, Lanes, or Allies within your Ward, or any other wayes to put those or any other things to sale on that day, at any time of the day, or in the evening thereof, or a<g ref="char:EOLhyphen"/>ny Milkewomen to cry Milke on that day in any the Streetes, or places aforesaid, nor to permit or suffer any person or persons to use or exercise upon that day, their la<g ref="char:EOLhyphen"/>bour in unlading any vessels of Fruite or
+<pb n="3" facs="tcp:197127:4"/> other Goods, and carrying Goods on shore, or in the Streetes, or to doe any unlawfull ex<g ref="char:EOLhyphen"/>ercises and pastimes within your Ward, and that expresse charge be given to every kee<g ref="char:EOLhyphen"/>per of any Taverne, Inne, Cookeshops, To<g ref="char:EOLhyphen"/>bacco-house, Alehouse, or any other Tipler or Victualler whatsoever, within your Ward, that hereafter they receive not, or suffer to re<g ref="char:EOLhyphen"/>maine any person or persons whatsoever, as their Guests or Customers to tipple, eate, drinke or take Tobacco in their houses upon the Lords day, other then that Inholders may receive their ordinary Guests, or Travailers, and such like, who come to remaine for a time in their Inne, for dispatch of their ne<g ref="char:EOLhyphen"/>cessary businesse. And if any person or per<g ref="char:EOLhyphen"/>sons shall be found offending in the premises that then they be brought before me the Lord Major or some other of his Majesties Iustices of the Peace, to the end they may receive such punishment, as to Iustice shall appertaine. And hereof not to faile, as you will answer the contrary at your perill:</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 23. 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
